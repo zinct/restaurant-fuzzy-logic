@@ -1,6 +1,6 @@
 # Fuzzy Logic System untuk Memilih 5 Restoran Terbaik
 # Nama: Indra Mahesa (1302220067)
-# Nama: Yazid Al Ghozali (130222007)
+# Nama: Yazid Al Ghozali (1302223047)
 # Kelas: SE4601
 # Mata Kuliah: Kecerdasan Buatan
 
